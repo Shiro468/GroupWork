@@ -1,0 +1,4 @@
+# ninja log v5
+1	99	6930161797566521	build.ninja	bcd132fd41efe438
+0	43	6930084860210881	CMakeFiles/GroupProject.dir/main.c.obj	41b249b7f3a3f92f
+43	106	6930084860819255	GroupProject.exe	f81e12222ff409d6
