@@ -79,9 +79,6 @@
 		<Unit filename="C:/Users/Seba/Desktop/GroupWork/GroupProject/He.cpp">
 			<Option target="GroupProject"/>
 		</Unit>
-		<Unit filename="C:/Users/Seba/Desktop/GroupWork/GroupProject/main.c">
-			<Option target="GroupProject"/>
-		</Unit>
 		<Unit filename="C:/Users/Seba/Desktop/GroupWork/GroupProject/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

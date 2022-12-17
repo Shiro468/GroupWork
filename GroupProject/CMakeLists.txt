@@ -3,4 +3,4 @@ project(GroupProject C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(GroupProject main.c He.cpp)
+add_executable(GroupProject He.cpp)
