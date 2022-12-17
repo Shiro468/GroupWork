@@ -1,4 +1,4 @@
 void Lo()
 {
-    printf("lo");
+    printf("llo");
 }
