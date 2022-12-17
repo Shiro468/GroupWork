@@ -76,6 +76,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Seba/Desktop/GroupWork/GroupProject/Rld.cpp">
+			<Option target="GroupProject"/>
+		</Unit>
 		<Unit filename="C:/Users/Seba/Desktop/GroupWork/GroupProject/main.c">
 			<Option target="GroupProject"/>
 		</Unit>
