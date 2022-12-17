@@ -1,3 +1,0 @@
-C:/Users/Seba/Desktop/GroupWork/GroupProject/cmake-build-debug/CMakeFiles/GroupProject.dir
-C:/Users/Seba/Desktop/GroupWork/GroupProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Seba/Desktop/GroupWork/GroupProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
